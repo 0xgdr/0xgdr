@@ -77,22 +77,6 @@
 
 ---
 
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xgdr/0xgdr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xgdr/0xgdr/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/0xgdr/0xgdr/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:14F195%2C50:9945FF%2C100:7032cc&height=120&section=footer" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:14F195%2C70:9945FF%2C100:e8d5f5&height=120&section=footer" />
